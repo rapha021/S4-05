@@ -7,7 +7,7 @@ export const listaAlunos = [
     materias: [
       {
         nome: "Calculo I",
-        avaliacoes: [6, 8, 10, 8],
+        avaliacoes: [2, 4, 2, 5],
       },
       {
         nome: "Pensamento Computacional",
